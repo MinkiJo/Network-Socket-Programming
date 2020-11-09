@@ -13,7 +13,7 @@ Network/Socket Programming Tutorial Code
 - 클라이언트에서 서버로 데이터를 전송하면 같은 문자열 데이터를 전송해주는 echo system
 
 [window-based socket system](https://github.com/MinkiJo/Socket_Programming/tree/main/window-based-system)
-- winsock2 라이브러리를 이용한 윈도우 기반 TCP 소켓 프로그래밍
+- winsock2 라이브러리를 이용한 윈도우 기반 TCP 서버 클라이언트
 
 [Checksum Test](https://github.com/MinkiJo/Network-Socket-Programming/blob/main/checksumTest/checksum.c)
 - 디지털 통신 시스템에서의 checksum 검사 c언어 시뮬레이션
